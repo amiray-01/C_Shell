@@ -28,4 +28,4 @@ make         # Compiles the shell executable (`shell`)
 make clean   # Removes object files and the `shell` executable
 ```
 
-For more details on the project structure and design decisions, please refer to the [architecture.md](architecture.md) file.
+For more details on the project structure and design decisions, please refer to the [ARCHITECTURE.md](architecture.md) file.
